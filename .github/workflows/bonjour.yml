@@ -11,9 +11,11 @@ jobs:
 
             - name: Présenter la machine
               run: |
+                ls -la
                 date
                 uname -a
                 python3 --version
                 nproc
                 free -h 
                 df -h /
+                ls -la

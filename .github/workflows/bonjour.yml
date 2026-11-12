@@ -19,5 +19,6 @@ jobs:
                 df -h /
 
             - name: Récupérer le code
-              uses: actions/checkout@v7
-              ls -la
+              uses: |
+                 actions/checkout@v7
+                 ls -la

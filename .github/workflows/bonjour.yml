@@ -24,3 +24,7 @@ jobs:
 
             - name: Vérifier la récupération du code  
               run: ls -la
+              
+            - name : Affichage du nombre de fichiers Python du dépôt
+              run: ls *.py
+

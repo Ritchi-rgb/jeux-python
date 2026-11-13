@@ -4,7 +4,7 @@
 # Objectifs :
 # - répéter une instruction avec for ... in range()
 # - comprendre que la borne de fin de range() est exclue
-# - imbriquer deux boucles (deuxième partie)
+# - imbriquer deux boucles (deuxième partie) -----
 # ============================================================
 
 # Partie 1 : la table d'un seul nombre

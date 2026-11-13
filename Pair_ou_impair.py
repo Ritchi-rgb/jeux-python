@@ -3,7 +3,7 @@
 
 nombre_1 = int(input("Donnez moi un nombre entier : "))
 
-if nombre_1 % 2 == 0
+if nombre_1 % 2 == 0:
     print(f"Le nombre {nombre_1} est pair")
 else:
     print(f"Le nombre {nombre_1} est impair")

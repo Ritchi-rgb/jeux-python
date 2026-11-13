@@ -1,0 +1,1 @@
+![CI](https://github.com/Ritchi-rgb/jeux-python/actions/workflows/ci.yml/badge.svg)
